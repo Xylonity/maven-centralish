@@ -36,11 +36,11 @@
         {
           "name": "knightlib-fabric-1.20.1-1.3.0.jar",
           "url": "knightlib-fabric-1.20.1-1.3.0.jar",
-          "size": 399964,
-          "sha512": "df16c5859446fcd44a118f9fafa1b4e52ef44523b5dcce1f9e7b8b065fef1b64690abb7792f915507ad3cf3d822b4f88beb2fd4c1d8c09dfcaf20b05146ef692",
-          "sha256": "e7a2cc0f7a61ad777d1e7d65266f028310f20b4f106984119daf1858b3ce4f14",
-          "sha1": "81ddb241862308f58099d8e9ff5de39cb605b3d6",
-          "md5": "0493afcf82d20789a41f9af2aadaa419"
+          "size": 417162,
+          "sha512": "c06a80ff1cfcf03fa18dc382ee2c117c10b5d61e10d5fc8fb067904cce05a5a6db81bdcc9ef288c961e49d00cad248f7dd360307dcb2d34f279fa09ce7fc2a5b",
+          "sha256": "9822dbea7848fb2b99e64e204f2db8f0ccedef2fa097088b979c4b4a814ce3f1",
+          "sha1": "5b7140d8bc8a8f24829ce9813608ccbd5791e303",
+          "md5": "5a103cbd49b6913dae8cab80223c5970"
         }
       ]
     },
@@ -108,11 +108,11 @@
         {
           "name": "knightlib-fabric-1.20.1-1.3.0.jar",
           "url": "knightlib-fabric-1.20.1-1.3.0.jar",
-          "size": 399964,
-          "sha512": "df16c5859446fcd44a118f9fafa1b4e52ef44523b5dcce1f9e7b8b065fef1b64690abb7792f915507ad3cf3d822b4f88beb2fd4c1d8c09dfcaf20b05146ef692",
-          "sha256": "e7a2cc0f7a61ad777d1e7d65266f028310f20b4f106984119daf1858b3ce4f14",
-          "sha1": "81ddb241862308f58099d8e9ff5de39cb605b3d6",
-          "md5": "0493afcf82d20789a41f9af2aadaa419"
+          "size": 417162,
+          "sha512": "c06a80ff1cfcf03fa18dc382ee2c117c10b5d61e10d5fc8fb067904cce05a5a6db81bdcc9ef288c961e49d00cad248f7dd360307dcb2d34f279fa09ce7fc2a5b",
+          "sha256": "9822dbea7848fb2b99e64e204f2db8f0ccedef2fa097088b979c4b4a814ce3f1",
+          "sha1": "5b7140d8bc8a8f24829ce9813608ccbd5791e303",
+          "md5": "5a103cbd49b6913dae8cab80223c5970"
         }
       ]
     },
@@ -128,11 +128,11 @@
         {
           "name": "knightlib-fabric-1.20.1-1.3.0-sources.jar",
           "url": "knightlib-fabric-1.20.1-1.3.0-sources.jar",
-          "size": 132588,
-          "sha512": "842ded1c6307624d4f43355936891371526f7404e8702f70650387f73f3a06eff687a15cf81c14d55975d39d87b014689c6c55fd2b3652238c072531b35003d6",
-          "sha256": "71a2164f043f47d936bc70a9355cac64143250f75b625bdc766593b0f20bc9d1",
-          "sha1": "91992126d5020b66e5adc28d30a71fb36f2efcc7",
-          "md5": "5c73532f8aec8decd53db1987a3e6dd2"
+          "size": 141490,
+          "sha512": "01ff5bdad1053429b5631a25a128a91e6e184407208bb652ef921afda0a4974e3799f736acb0d6376e881093292d03ccc73cc3844447654e86f5e6b0e7b31fe5",
+          "sha256": "e0834ee9a46d7032bc51bc6f25fa9d34d5f0a607edbf5061fa11b1f6a018fa6e",
+          "sha1": "83ecdacc0d2da1231459043c616ffcfddc9720bb",
+          "md5": "e23721db4875130060fcee6df8764304"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "knightlib-fabric-1.20.1-1.3.0-javadoc.jar",
           "url": "knightlib-fabric-1.20.1-1.3.0-javadoc.jar",
-          "size": 356741,
-          "sha512": "623ee772b67259bbaa0202a226b90b4810251c8875177ab3254c1c3fd131d4dcc1c3180a32ee0cfdd9955ab31a4630ecad93f2f7394d6785a4faaacbf853004d",
-          "sha256": "91ccef2de3635e458cc3096cab8b6bf5661590584915b61b5acb426e466450e3",
-          "sha1": "e5f6b3026a0f6f21c37381a88b460d0403037bca",
-          "md5": "ddeeda4dc7bfd59056a6c1b1162aae94"
+          "size": 408751,
+          "sha512": "ee75574d89b93e671ab79312a6b5306c86dd110883ac22d5e1ef28e7176310b44976538d2bc5e89744c5604a3ea771a49955636a4efb0df9a8480ccc26ed24df",
+          "sha256": "c93d29a97896abac80b104e725e2276039038b506c63789f000adc57bf889314",
+          "sha1": "639cfd6b485a44f3e62aad662c33d50cabb6eb1c",
+          "md5": "598c18aa852fcc08d7849a8646647fec"
         }
       ]
     },
@@ -177,11 +177,11 @@
         {
           "name": "knightlib-fabric-1.20.1-1.3.0-dev-shadow.jar",
           "url": "knightlib-fabric-1.20.1-1.3.0-dev-shadow.jar",
-          "size": 388783,
-          "sha512": "d0e04d6f487907b8adfc6b52d1fbbaeb6ed57c0001c111bfb7c8093673585ef2591a18f54f6ce6ad01b1b14551828821b0ae5c3698a70d4203583cf47917ada6",
-          "sha256": "a59634b4b48e781f32db9c9ca0453a69f2d3439746c666877b60efa3f493725c",
-          "sha1": "ae89baebe4b5a08852a5c0010b85d44f273709d9",
-          "md5": "16ef5322bf05cb72a52cbf8f95ac3838"
+          "size": 405759,
+          "sha512": "3af31707c93255a4ea1e6d8e6a9208e007fd78c8804e6da443d4b4abc8121b9d481106caa61618d788ae49e78d56ad13ec0fdfe55f2d13bd9990342e9cbb8925",
+          "sha256": "3a91521afb0abcc94476e9b6fcd2c6d7f9072b8d3b4567ff946af932a7b7f877",
+          "sha1": "cd13e9a7a1e077099a30d956f376fadd9611d6a9",
+          "md5": "5f729ee213bad5716c6d14aefa7ab6b4"
         }
       ]
     }
