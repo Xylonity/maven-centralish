@@ -27,11 +27,11 @@
         {
           "name": "knightlib-fabric-1.21.1-1.3.0.jar",
           "url": "knightlib-fabric-1.21.1-1.3.0.jar",
-          "size": 420091,
-          "sha512": "f000a293e6bdd32df7ee1652d9780af7e6a5f73d9d336e029a6318d8c360ea6ca0ff9d12712bfa43f29ea99bb689309c6e2bf0fd2d85c2a0406eca3aa31a7396",
-          "sha256": "37a42b678652b7afd3d470fa3f81bb19d6ae1a0060d76fc7b587b03310e004ab",
-          "sha1": "f58a61b22adde13bdd2309b71d36728ae21df568",
-          "md5": "7bb6307a4381165b67933591927380db"
+          "size": 420127,
+          "sha512": "341af55beec67698195a8a14dc5a176b1f3e91668c644563e175bc060b2a74c0205a8a466188a46f4b4699494181336461eb0737d1385787198be26735bf5371",
+          "sha256": "b65157eb9bbb3778c8d3c3c6a4a34c9513778618d2fdf4209d7ddf92a527d67f",
+          "sha1": "24cbc79840d89dcafcb216af85a1910cf649aa74",
+          "md5": "f2a4ef2ead3af2586e076e1ab567a417"
         }
       ],
       "capabilities": [
@@ -97,11 +97,11 @@
         {
           "name": "knightlib-fabric-1.21.1-1.3.0.jar",
           "url": "knightlib-fabric-1.21.1-1.3.0.jar",
-          "size": 420091,
-          "sha512": "f000a293e6bdd32df7ee1652d9780af7e6a5f73d9d336e029a6318d8c360ea6ca0ff9d12712bfa43f29ea99bb689309c6e2bf0fd2d85c2a0406eca3aa31a7396",
-          "sha256": "37a42b678652b7afd3d470fa3f81bb19d6ae1a0060d76fc7b587b03310e004ab",
-          "sha1": "f58a61b22adde13bdd2309b71d36728ae21df568",
-          "md5": "7bb6307a4381165b67933591927380db"
+          "size": 420127,
+          "sha512": "341af55beec67698195a8a14dc5a176b1f3e91668c644563e175bc060b2a74c0205a8a466188a46f4b4699494181336461eb0737d1385787198be26735bf5371",
+          "sha256": "b65157eb9bbb3778c8d3c3c6a4a34c9513778618d2fdf4209d7ddf92a527d67f",
+          "sha1": "24cbc79840d89dcafcb216af85a1910cf649aa74",
+          "md5": "f2a4ef2ead3af2586e076e1ab567a417"
         }
       ],
       "capabilities": [
@@ -129,11 +129,11 @@
         {
           "name": "knightlib-fabric-1.21.1-1.3.0-sources.jar",
           "url": "knightlib-fabric-1.21.1-1.3.0-sources.jar",
-          "size": 142465,
-          "sha512": "545c51d67396564935106d98a0e7bb91cbcff55d95eb67b9f178910d27e2d8192529b4c1fb45f2b0c9aeff150a37354759a66b2506b64d2e749cb1d7ea2c0064",
-          "sha256": "9def93db7256564d5479df87f9993c04da11388c4684bea5adf7ac7b481a83ad",
-          "sha1": "244cffb361e17e492b1644a10d7157374f94d8cf",
-          "md5": "4903aa8d2aefd97eee25fb3df93d6097"
+          "size": 142542,
+          "sha512": "243d56a946dbe9dbcef3715afac427e20802a41090d92bfdd83c3b9d769480fb86bc5c0b4eca6d5a592673a34888c7680f51099793cfd246fa75fea0401cdbc5",
+          "sha256": "a21685af54766f73ed763049367e3fa1d8dacecd7af0f7b303ee1d269adb1ab6",
+          "sha1": "0b9166d3c64e715ab48a3998b22884991df3781f",
+          "md5": "8ff7fec72503ad86c87ca8b3cd0e90f1"
         }
       ],
       "capabilities": [
@@ -202,11 +202,11 @@
         {
           "name": "knightlib-fabric-1.21.1-1.3.0-dev-shadow.jar",
           "url": "knightlib-fabric-1.21.1-1.3.0-dev-shadow.jar",
-          "size": 408860,
-          "sha512": "6d854fb44cb67b1d194b9aedff3144271c2e4cac7d3fa9854024fa32a0abc1246bc6cffc8cdc3fbd77a6281df5f5af1d8596106bd33430c35d21a25a6c5f7980",
-          "sha256": "e3d7f7bd4932364f05c548c453b11a589a67b8a2e45f6ecb08f5a501b7d52ed6",
-          "sha1": "59104efbb61bbee47c75dc56580f4cc3604fdb4d",
-          "md5": "09c68555d0397abdae1c04b664197d36"
+          "size": 408895,
+          "sha512": "2b9d4a55dd478e6b7c410bbd3ed426716b494170c2acb367ce83efa933f59da0b68048181d8e7dfdb6c147a9324d402041103401468cd8a8556d361c702dc9b7",
+          "sha256": "1f17b128a42bda167423a801dfdb7ab24a7dd602d0d97a0d9789ad64be3f3785",
+          "sha1": "f514552be2ffe291712e98e5eeb75b3d53e5fadb",
+          "md5": "81ed4048c01ae32d889770d377619a40"
         }
       ]
     }
