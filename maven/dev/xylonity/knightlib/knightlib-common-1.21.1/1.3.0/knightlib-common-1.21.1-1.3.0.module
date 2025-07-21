@@ -27,11 +27,11 @@
         {
           "name": "knightlib-common-1.21.1-1.3.0.jar",
           "url": "knightlib-common-1.21.1-1.3.0.jar",
-          "size": 105911,
-          "sha512": "c23e1b71e44311c93bd188c35b178421ab24b1cc4d9de3a8343a6f236f4b1e916435e47fd0cd8ee503c56b331374cc52632da35506a53603fe65cca7132f2d1b",
-          "sha256": "4ce2f966394ec9984c9537c9eb3c0ac3439b494c8fb985289ce10ddfc405d435",
-          "sha1": "5256fdd7dee04328c3f7daa681a52894690543d7",
-          "md5": "2cdea3237b873d023e43147f15b5b079"
+          "size": 106041,
+          "sha512": "94ea3613302709105bac694c93853db1916c50aa2ff5530d02e5a612ed83179732abaa9b0d4590dab97ab539579e36c34a9b1f9d5975cccd8c3681fe6edf0310",
+          "sha256": "8038a145ba8ba239f66678b74c1d0acc3ec83dc841e3666a9a2051494d683821",
+          "sha1": "9a6605c6248db4be9fbbe7af94ec4ee7d920785e",
+          "md5": "a50e001a129ccf7c4fd6084ed05a5f08"
         }
       ],
       "capabilities": [
@@ -60,11 +60,11 @@
         {
           "name": "knightlib-common-1.21.1-1.3.0.jar",
           "url": "knightlib-common-1.21.1-1.3.0.jar",
-          "size": 105911,
-          "sha512": "c23e1b71e44311c93bd188c35b178421ab24b1cc4d9de3a8343a6f236f4b1e916435e47fd0cd8ee503c56b331374cc52632da35506a53603fe65cca7132f2d1b",
-          "sha256": "4ce2f966394ec9984c9537c9eb3c0ac3439b494c8fb985289ce10ddfc405d435",
-          "sha1": "5256fdd7dee04328c3f7daa681a52894690543d7",
-          "md5": "2cdea3237b873d023e43147f15b5b079"
+          "size": 106041,
+          "sha512": "94ea3613302709105bac694c93853db1916c50aa2ff5530d02e5a612ed83179732abaa9b0d4590dab97ab539579e36c34a9b1f9d5975cccd8c3681fe6edf0310",
+          "sha256": "8038a145ba8ba239f66678b74c1d0acc3ec83dc841e3666a9a2051494d683821",
+          "sha1": "9a6605c6248db4be9fbbe7af94ec4ee7d920785e",
+          "md5": "a50e001a129ccf7c4fd6084ed05a5f08"
         }
       ],
       "capabilities": [
@@ -92,11 +92,11 @@
         {
           "name": "knightlib-common-1.21.1-1.3.0-sources.jar",
           "url": "knightlib-common-1.21.1-1.3.0-sources.jar",
-          "size": 86457,
-          "sha512": "c7000d99f539c17e16805cae2ac67ad6eeb95d0608e43ea2e326a50b0474af77da0697f2aa59a274880e33ae4df6680a10e54ab6b53c998656b22b001f8bd0f9",
-          "sha256": "00a5d5deed68f4562d3cf2da3e94766361805201ce4479b72c7a8dc9ef69fd07",
-          "sha1": "350eb97a7a719ec5268f823aa4a3a2cc5cdf0c02",
-          "md5": "8ed3d7b1b17eb778a4fcfde61e4ae527"
+          "size": 86659,
+          "sha512": "5c310ad243db1988ac13a1bf78fdc43fd6f3286f8cdba448afbbc4651fbb9639ca74237f845e510b380d52ce8015aab051f2a7524334af4c399854778c30aafe",
+          "sha256": "6cbde5370459163ffc9fb78858f14faaef60e0094e360373c3d00fc07f180f03",
+          "sha1": "9a402a09773da8c461134231a25082304cf9c5f0",
+          "md5": "3b343b2dc0f22a9c28759fe45bad35e5"
         }
       ],
       "capabilities": [
@@ -124,11 +124,11 @@
         {
           "name": "knightlib-common-1.21.1-1.3.0-javadoc.jar",
           "url": "knightlib-common-1.21.1-1.3.0-javadoc.jar",
-          "size": 228793,
-          "sha512": "53e2ff064465eb162269793a76f39225c07dea65ff1b95fa010175c4caeeebd6a37851049968266a3471dda126f29de64dea5eb869ce67b7aa955e200816bd3b",
-          "sha256": "a8253a0f25ccab06ca57d258dac2021fa7a84f8238ab3e05d45ffae8dc072fdd",
-          "sha1": "0dcf8f755a6eb0de8fc670a2dd7b05ab93601fa4",
-          "md5": "1f35837644f35ad9d3d984ac0736ec52"
+          "size": 228799,
+          "sha512": "b167d2e74289e01b50ce49c3245d17af2606c207d72486033c6f3720953490227366806c76b14eb25451321b037219f5c9c63af95352631450af62f259f4aebb",
+          "sha256": "0c0c81c8350ded9d160b439a6ce9d49588a913c8b277ba42fc829c12f526cdc5",
+          "sha1": "a86a93f7dbacc65c96e25485488cc2cf6ef22071",
+          "md5": "fb4a8d734ddb5015bd0eb592118dd6f8"
         }
       ],
       "capabilities": [
