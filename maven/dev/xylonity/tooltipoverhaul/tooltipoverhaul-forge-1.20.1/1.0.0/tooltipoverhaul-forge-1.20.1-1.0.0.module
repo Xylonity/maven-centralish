@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "dev.xylonity.tooltipsoverhaul",
+    "group": "dev.xylonity.tooltipoverhaul",
     "module": "tooltipoverhaul-forge-1.20.1",
     "version": "1.0.0",
     "attributes": {
@@ -27,26 +27,26 @@
           "name": "tooltipoverhaul-forge-1.20.1-1.0.0-sources.jar",
           "url": "tooltipoverhaul-forge-1.20.1-1.0.0-sources.jar",
           "size": 185687,
-          "sha512": "a2598121efabb2c8abcdbb8448fbe7618ab0896d6fd0940611a577b88d3a6c879303911469ecfb5296711168ff29f3d50ca4f3b2d33789eb79944a94848852af",
-          "sha256": "f5bf01a7e1feb58db62b4a01e3702dc0f85a918ad9619ea00092a5bf85a6cfe9",
-          "sha1": "60054a894522357d55a0774d016c37dde0b705fd",
-          "md5": "db8de8311d7d4b00126fb81732baf329"
+          "sha512": "68dfd5304008764019b2d547c783b2a3bcf6357e9ac05c9dcecf7d9904876621a5e78496b9a63308d6fed4573b431abcaa2c4ccfb37b0eaff80638ebc196b819",
+          "sha256": "d7e0a878c441bfcf4acf86202d7556107e8c93fcc30fd28aa2d3d9246dacb9cf",
+          "sha1": "b0cab334b25df7b888ac04193b365407ed9f4539",
+          "md5": "79d3b619fb3a66a0b6440823c18db82f"
         }
       ],
       "capabilities": [
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-forge-1.20.1",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
           "name": "forge",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul-forge-1.20.1",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
           "version": "1.0.0"
         }
       ]
@@ -64,26 +64,26 @@
           "name": "tooltipoverhaul-forge-1.20.1-1.0.0-javadoc.jar",
           "url": "tooltipoverhaul-forge-1.20.1-1.0.0-javadoc.jar",
           "size": 376070,
-          "sha512": "abac2f322ccb95890e4df7402e93288b266b4d46befe76dee5d28d8665be70760653c207a6d04b265fbfdc5d1a1872879289cd06c42d668d9fb2d55d5681e3b7",
-          "sha256": "5eda823f3b384bac0fd3558aa86ecb0afbcd2f479c577212ea2a0a944bb0c11e",
-          "sha1": "32a25d62b6519667dfe3509075012996b3031f80",
-          "md5": "e1c5fe128a88c3c72a84eec5d17a7ec7"
+          "sha512": "a64cc3c55669dfd8b8cf3fdf0161992f48a8f4f03c4f225826cf700d952e6a649cac63b80402dcff24538e9694a2946eb121e8bb2d675d4d8c637fca4ac73fff",
+          "sha256": "73dfdd3ece247c272f54f801320b31bcc9ded8fa47c7a4bf10edf1b51ba47203",
+          "sha1": "d5c2b5fc1df397d8f5eef816d829a59b866be611",
+          "md5": "90f08e83b62aa973f0693f4f5b2ddd28"
         }
       ],
       "capabilities": [
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-forge-1.20.1",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
           "name": "forge",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul-forge-1.20.1",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
           "version": "1.0.0"
         }
       ]
@@ -102,10 +102,10 @@
           "name": "tooltipoverhaul-forge-1.20.1-1.0.0.jar",
           "url": "tooltipoverhaul-forge-1.20.1-1.0.0.jar",
           "size": 262822,
-          "sha512": "392f68389f30c0e7472d019ff0476c5466e77bf8edef06a1105d60775ea076c66c03c7592b6f6202cf7f876b0d6641aa3c37e2ca74bb42be372177b82887e8ed",
-          "sha256": "6a74e0b58c0101a65e10eeeb1ac85cfa619cc667a3ea9686d72ebbb1fb5e22c6",
-          "sha1": "afda99a15a8304c31da49a62034f346dbbfab901",
-          "md5": "f7b8f544ed63020a49d3eec644d485db"
+          "sha512": "e2d641232b587e3648b29dc36747628ad845d8bfad2d7cf4c004874d9ce1da71cf9d697e0268f765dca9fd5660f554c29e1ca7e85bf1a6c2626ca744b2558978",
+          "sha256": "5d02a2a4ba2364a23f88b6e1e4f1acbe16f1126ebe710e6ca0715fdc42ce3530",
+          "sha1": "9dc340ef58e90ddf9575838ac57a4c920069b1dd",
+          "md5": "60882a9f32929ee6e1dc5d310e6c6cda"
         }
       ]
     },
@@ -123,10 +123,10 @@
           "name": "tooltipoverhaul-forge-1.20.1-1.0.0.jar",
           "url": "tooltipoverhaul-forge-1.20.1-1.0.0.jar",
           "size": 262822,
-          "sha512": "392f68389f30c0e7472d019ff0476c5466e77bf8edef06a1105d60775ea076c66c03c7592b6f6202cf7f876b0d6641aa3c37e2ca74bb42be372177b82887e8ed",
-          "sha256": "6a74e0b58c0101a65e10eeeb1ac85cfa619cc667a3ea9686d72ebbb1fb5e22c6",
-          "sha1": "afda99a15a8304c31da49a62034f346dbbfab901",
-          "md5": "f7b8f544ed63020a49d3eec644d485db"
+          "sha512": "e2d641232b587e3648b29dc36747628ad845d8bfad2d7cf4c004874d9ce1da71cf9d697e0268f765dca9fd5660f554c29e1ca7e85bf1a6c2626ca744b2558978",
+          "sha256": "5d02a2a4ba2364a23f88b6e1e4f1acbe16f1126ebe710e6ca0715fdc42ce3530",
+          "sha1": "9dc340ef58e90ddf9575838ac57a4c920069b1dd",
+          "md5": "60882a9f32929ee6e1dc5d310e6c6cda"
         }
       ]
     }

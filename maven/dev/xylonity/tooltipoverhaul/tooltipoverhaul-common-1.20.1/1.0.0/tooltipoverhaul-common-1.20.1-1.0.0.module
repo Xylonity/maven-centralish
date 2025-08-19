@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "dev.xylonity.tooltipsoverhaul",
+    "group": "dev.xylonity.tooltipoverhaul",
     "module": "tooltipoverhaul-common-1.20.1",
     "version": "1.0.0",
     "attributes": {
@@ -27,26 +27,26 @@
           "name": "tooltipoverhaul-common-1.20.1-1.0.0-sources.jar",
           "url": "tooltipoverhaul-common-1.20.1-1.0.0-sources.jar",
           "size": 179921,
-          "sha512": "de4753665d134b2407e8349f55d9d376ff477a25957c341acfb5b772d521082eba2e69cdb51263ae31836d887268d04f59a48a9b7748b9b3a1394437cd0e2c9f",
-          "sha256": "13b24e9c2161fb51aa886af21b4ae4f47ea24a8c3620c36f35d360ce88a85054",
-          "sha1": "3cef816ab5b28b28ebf0d62c9a0593f74b1e91fd",
-          "md5": "2c7e1d07166475938ebe4a94da519142"
+          "sha512": "1eb163e70e6c246c1a33e41406b42f9a4d748944151fb1839ca2a215fdf51368c96650998d0de91055de63a31935c79d1fc8de9d04cc78d4b032f86e7c5c35a7",
+          "sha256": "61434f183f8408f7d4ec4757ecdf8d99058cdb53678bd324ed87601321e2cd29",
+          "sha1": "8447f9746728e79254e223985fcc0167ce9a1db4",
+          "md5": "2cefc8ce874f2c0d5bbabac86273e316"
         }
       ],
       "capabilities": [
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-common-1.20.1",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
           "name": "common",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul-common-1.20.1",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
           "version": "1.0.0"
         }
       ]
@@ -64,26 +64,26 @@
           "name": "tooltipoverhaul-common-1.20.1-1.0.0-javadoc.jar",
           "url": "tooltipoverhaul-common-1.20.1-1.0.0-javadoc.jar",
           "size": 361765,
-          "sha512": "c3658ae3a8df2e4740fda47fa2a00ec2020180904a979172e1ccc603d95078c40e963a39fd2d97e55884f6a727fefba854f7cfff78225e5e85f52fccfbc9c195",
-          "sha256": "48cb1779c2224d354140ec70c3347ecff16837a24e208f1fedc76081c4cd77d7",
-          "sha1": "43a7a8c0e1fc45005e201c41e301b961186f8559",
-          "md5": "e4c938f54e771579a51f77b3eb78c696"
+          "sha512": "b082770c004d3e237498738dc4b26e50684772ba255c7b00510c2905f72336c7939991dcf97607146c3f9abc0b0bc103672e051e94f8c6ac7b691ce30d265597",
+          "sha256": "a9ba2eec35b3781930b5f0bee83dc356e0af054c5241931476c538c6d4adfd7c",
+          "sha1": "6b9adcf8b45d13850170af1db4ae2df5ae570a93",
+          "md5": "42c4c11179cf0f7e703524debd9b576d"
         }
       ],
       "capabilities": [
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-common-1.20.1",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
+          "group": "dev.xylonity.tooltipoverhaul",
           "name": "common",
           "version": "1.0.0"
         },
         {
-          "group": "dev.xylonity.tooltipsoverhaul",
-          "name": "tooltipoverhaul-common-1.20.1",
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
           "version": "1.0.0"
         }
       ]
@@ -102,10 +102,10 @@
           "name": "tooltipoverhaul-common-1.20.1-1.0.0.jar",
           "url": "tooltipoverhaul-common-1.20.1-1.0.0.jar",
           "size": 249973,
-          "sha512": "8b84ec8beb4ac4023112db0f959736a278395ab7dfb1737f1aef4cc038de6b35648497161449dd1ae26e9ff25b205c54e30e10f4771cde43b5fc42233b85c9b1",
-          "sha256": "16c2df3a6c875956c5164c5300b617c2ff09eaab6354e973f63133ac787b073b",
-          "sha1": "11e20659220fb4da8c3dd0a8c4b313f5a9b42da6",
-          "md5": "f33ddfcfbdd363c49a285b361ab6e71b"
+          "sha512": "526bf35229b36686a34c626d33e18111daca11df787926aa37b68182552d9cbe5e21f4dd1cffa558121803ebeb004b0ee99ea19af664625484c37c8259a21107",
+          "sha256": "345da5d9dc030721413da5511ea30c9399173470dbcddb1db5a67fd856ab6470",
+          "sha1": "a28bf707a62ab280bb1f84ec6ada327e509ebe03",
+          "md5": "8d66c7213c45d386f1db9b170443a72b"
         }
       ]
     },
@@ -123,10 +123,10 @@
           "name": "tooltipoverhaul-common-1.20.1-1.0.0.jar",
           "url": "tooltipoverhaul-common-1.20.1-1.0.0.jar",
           "size": 249973,
-          "sha512": "8b84ec8beb4ac4023112db0f959736a278395ab7dfb1737f1aef4cc038de6b35648497161449dd1ae26e9ff25b205c54e30e10f4771cde43b5fc42233b85c9b1",
-          "sha256": "16c2df3a6c875956c5164c5300b617c2ff09eaab6354e973f63133ac787b073b",
-          "sha1": "11e20659220fb4da8c3dd0a8c4b313f5a9b42da6",
-          "md5": "f33ddfcfbdd363c49a285b361ab6e71b"
+          "sha512": "526bf35229b36686a34c626d33e18111daca11df787926aa37b68182552d9cbe5e21f4dd1cffa558121803ebeb004b0ee99ea19af664625484c37c8259a21107",
+          "sha256": "345da5d9dc030721413da5511ea30c9399173470dbcddb1db5a67fd856ab6470",
+          "sha1": "a28bf707a62ab280bb1f84ec6ada327e509ebe03",
+          "md5": "8d66c7213c45d386f1db9b170443a72b"
         }
       ]
     }
