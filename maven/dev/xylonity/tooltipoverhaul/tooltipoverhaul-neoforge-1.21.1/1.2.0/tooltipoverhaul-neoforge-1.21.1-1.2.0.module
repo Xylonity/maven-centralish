@@ -1,0 +1,213 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.tooltipoverhaul",
+    "module": "tooltipoverhaul-neoforge-1.21.1",
+    "version": "1.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.1-1.2.0.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.1-1.2.0.jar",
+          "size": 312627,
+          "sha512": "89c231894afff811c80b505b30e540aa706407100828ce61532ab555ca1570008ca90f9c5f2f5572b975912254ed23c6cf5d99d034bc0c38fccc23b61007ddd1",
+          "sha256": "762333e5855e010f9c56d31aa3360cb2a222749152576fce619545bbb319685f",
+          "sha1": "f23ad5daa3959595a5585d2f05ebde1a2b827647",
+          "md5": "24349a0486256222d0680b87ca1b91d5"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.1",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "curse.maven",
+          "module": "apotheosis-313970",
+          "version": {
+            "requires": "6926309"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "apothic-attributes-898963",
+          "version": {
+            "requires": "6751650"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "apothic-spawners-986583",
+          "version": {
+            "requires": "6751589"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "apothic-enchanting-1063926",
+          "version": {
+            "requires": "6926290"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "patchouli-306770",
+          "version": {
+            "requires": "6842247"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "placebo-283644",
+          "version": {
+            "requires": "6926281"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "lendercataclysm-551586",
+          "version": {
+            "requires": "6906997"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "curios-309927",
+          "version": {
+            "requires": "6529130"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "lionfish-api-1001614",
+          "version": {
+            "requires": "6168249"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.1-1.2.0.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.1-1.2.0.jar",
+          "size": 312627,
+          "sha512": "89c231894afff811c80b505b30e540aa706407100828ce61532ab555ca1570008ca90f9c5f2f5572b975912254ed23c6cf5d99d034bc0c38fccc23b61007ddd1",
+          "sha256": "762333e5855e010f9c56d31aa3360cb2a222749152576fce619545bbb319685f",
+          "sha1": "f23ad5daa3959595a5585d2f05ebde1a2b827647",
+          "md5": "24349a0486256222d0680b87ca1b91d5"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.1",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.1-1.2.0-sources.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.1-1.2.0-sources.jar",
+          "size": 221315,
+          "sha512": "1659c413f61b7ecebb491680e8a2581acd1deed80d69d29560c2d94c9a51c85604e8beb5d7d792dd5f81f43ef5ef45e3f12dd79b07512b1995b902810808f225",
+          "sha256": "df568091f1f76a85ad45458f4ddf481d6c6d4104c13fe48a4cdfa385e0a4678c",
+          "sha1": "9eb47baeffb5b5db2e79f7650fd51fd885e01c5f",
+          "md5": "3f8ffd7903fabf6aec8dc9632f6c71f9"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.1",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.1-1.2.0-javadoc.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.1-1.2.0-javadoc.jar",
+          "size": 441538,
+          "sha512": "c8925a9cf4ad26d492f78b4a7ef85b0a2b7d306fa10229ed025260e773b0894e34bf352272a7a0e82bd73925fe85f00abbbcda6edbc65da6eda7192e8aa76493",
+          "sha256": "db5b08edb3ce8cea1e0f19294a4fd492256de46dd784d0dc1d5e78d972fddbe2",
+          "sha1": "75505c3e63d864cda6893a8d57a62ebf29bd8309",
+          "md5": "fe22ca17cce6f8899e3e0c4fef2d5f16"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.1",
+          "version": "1.2.0"
+        }
+      ]
+    }
+  ]
+}

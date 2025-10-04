@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.tooltipoverhaul",
+    "module": "tooltipoverhaul-neoforge-1.21.5",
+    "version": "1.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.5-1.2.0.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.5-1.2.0.jar",
+          "size": 308817,
+          "sha512": "76f12118b59fd9fe5dc0934a20748b099dd123486b1a2dc8351e4f32c7fd016cc2d8cfcb9a4432076f22b676a13fd37d0a54aa9a53acb40621e338e7f312df32",
+          "sha256": "e5087c096fb0032581ba8b615bd0f6e35db3acbd211bfda4bfa410553716402f",
+          "sha1": "a5db5a716164769172b80df0641076b583433878",
+          "md5": "917f2826217e8c1f59b02ebf734ad64f"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.5",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.5-1.2.0.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.5-1.2.0.jar",
+          "size": 308817,
+          "sha512": "76f12118b59fd9fe5dc0934a20748b099dd123486b1a2dc8351e4f32c7fd016cc2d8cfcb9a4432076f22b676a13fd37d0a54aa9a53acb40621e338e7f312df32",
+          "sha256": "e5087c096fb0032581ba8b615bd0f6e35db3acbd211bfda4bfa410553716402f",
+          "sha1": "a5db5a716164769172b80df0641076b583433878",
+          "md5": "917f2826217e8c1f59b02ebf734ad64f"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.5",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.5-1.2.0-sources.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.5-1.2.0-sources.jar",
+          "size": 219311,
+          "sha512": "f30111f8f0e3c601fa3403b06d31ab0671596f8a7002316fe9b197bc04ebc2a9f72ae75be1b1e433d46f4e1e44fc4ec62e41300ab962f464fc3dacfe84b43d40",
+          "sha256": "4d80069d3da42d0e9912c87bea439bf7ccf213e04db2e89d7e4f0f0524c007af",
+          "sha1": "9c7072cceff5e04b138b70385114e2921b97d819",
+          "md5": "c90e8d539896a3e7022dc3e578ce0069"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.5",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-neoforge-1.21.5-1.2.0-javadoc.jar",
+          "url": "tooltipoverhaul-neoforge-1.21.5-1.2.0-javadoc.jar",
+          "size": 436013,
+          "sha512": "f89feb85f0973acd6fec5f0f3d7b4e6ca6e494538d869106b20b8d2b5966e6c3fafca8c43a501260c07fe51ed75d72d4be07febc3126fd5af757da4392dd4206",
+          "sha256": "e2ae916aea2105390ad503b8c318a4359413f55a8f87f7828e5f8f1c36a0d156",
+          "sha1": "db68dfe0fd4f98a8a5f7f92c620e664a6c8f277f",
+          "md5": "4542b3decf57673cd04b21ba1d25dffb"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-neoforge-1.21.5",
+          "version": "1.2.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "1.2.0"
+        }
+      ]
+    }
+  ]
+}
