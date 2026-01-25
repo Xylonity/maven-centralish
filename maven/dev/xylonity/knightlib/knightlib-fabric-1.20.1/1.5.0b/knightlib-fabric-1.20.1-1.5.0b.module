@@ -1,0 +1,189 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.knightlib",
+    "module": "knightlib-fabric-1.20.1",
+    "version": "1.5.0b",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-fabric-api",
+          "version": {
+            "requires": "15.20.0.106"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-fabric-1.20.1-1.5.0b.jar",
+          "url": "knightlib-fabric-1.20.1-1.5.0b.jar",
+          "size": 547923,
+          "sha512": "e9be2888342d149cb82a6094feb158e72f264692a3b8da89ea1dd3b6c7eb3bd5f4977e4ca1e3c50c0c6cd9d9937110d0b7e86ae03f8b32017b5e570c337ff118",
+          "sha256": "fd7a1f33542c8b2b97c3a2fa2207fd38f7196b869cce6260fb66f72fc0c90985",
+          "sha1": "7c8e7f04e3e6c40c1c51e5a7daf337ea313aaef6",
+          "md5": "f4fe0430940d618af5f4b0b74b95af18"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.1"
+          }
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "module": "knightlib-common-1.20.1",
+          "version": {
+            "requires": "1.5.0b"
+          }
+        },
+        {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.6"
+          }
+        },
+        {
+          "group": "software.bernie.geckolib",
+          "module": "geckolib-fabric-1.20.1",
+          "version": {
+            "requires": "4.7.1.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.9"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.1+1.20.1"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-fabric",
+          "version": {
+            "requires": "15.20.0.106"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-fabric-1.20.1-1.5.0b.jar",
+          "url": "knightlib-fabric-1.20.1-1.5.0b.jar",
+          "size": 547923,
+          "sha512": "e9be2888342d149cb82a6094feb158e72f264692a3b8da89ea1dd3b6c7eb3bd5f4977e4ca1e3c50c0c6cd9d9937110d0b7e86ae03f8b32017b5e570c337ff118",
+          "sha256": "fd7a1f33542c8b2b97c3a2fa2207fd38f7196b869cce6260fb66f72fc0c90985",
+          "sha1": "7c8e7f04e3e6c40c1c51e5a7daf337ea313aaef6",
+          "md5": "f4fe0430940d618af5f4b0b74b95af18"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-fabric-1.20.1-1.5.0b-sources.jar",
+          "url": "knightlib-fabric-1.20.1-1.5.0b-sources.jar",
+          "size": 207143,
+          "sha512": "1d41753cae0bf73f1fc0d97f4588e1fdde91d196c2d73deb4ed43fb6ca54ddadb32002495a471dabbc7c128e472d06939330e0167ee6225b3418a8185fdbf0f8",
+          "sha256": "9b62a1eccc895e47465fa87113368f1174e86ec92d28a098ce7a6efc3a768609",
+          "sha1": "0c5701ec244be0f524441dc12b5fdb6a2522ecb8",
+          "md5": "5aa7015a66ab75a1176645fb6724f90f"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-fabric-1.20.1-1.5.0b-javadoc.jar",
+          "url": "knightlib-fabric-1.20.1-1.5.0b-javadoc.jar",
+          "size": 713527,
+          "sha512": "3fed48eb8edb747529ca077e76cfbc91778bf2358efd7d90f2d2ddfa6e68c776d086c3b0e0e45ca29cf5bd9aeb37fe5c17b71f483d2b6440e4c6058dc8db9e1f",
+          "sha256": "fb0e7dca095e0d4bea02b93303e11f04cb4b36189cc1beb9a37c120aaf194278",
+          "sha1": "6d0d1741449cee2f26d8cc10b29421a127c687af",
+          "md5": "1fb9e1a06280d34a91205b6d491f36b4"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-fabric-1.20.1-1.5.0b-dev-shadow.jar",
+          "url": "knightlib-fabric-1.20.1-1.5.0b-dev-shadow.jar",
+          "size": 532183,
+          "sha512": "d9bd1c46023cbfcddeba86a70e0b261426b1430c6caa5382d00cf9f1cd91ea0cf2d28293b1e8a6dbf6cfe0b3fe4df6e69a818818e5a7983696c9757d0c5781b2",
+          "sha256": "1693ca1634b62e31c7fb3090fb747919e082c12a8b4cec886e09d1005ada4c8a",
+          "sha1": "0ed56586bf06fe68c82672f379dd788b98c49fcf",
+          "md5": "d0e2ded7c524536b0c56ecdc36f5725e"
+        }
+      ]
+    }
+  ]
+}
