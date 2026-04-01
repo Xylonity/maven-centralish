@@ -3,11 +3,11 @@
   <groupId>dev.xylonity.knightlib</groupId>
   <artifactId>knightlib-forge-1.20.1</artifactId>
   <versioning>
-    <latest>1.5.0u</latest>
-    <release>1.5.0u</release>
+    <latest>1.5.0v</latest>
+    <release>1.5.0v</release>
     <versions>
-      <version>1.5.0u</version>
+      <version>1.5.0v</version>
     </versions>
-    <lastUpdated>20260401155221</lastUpdated>
+    <lastUpdated>20260401221907</lastUpdated>
   </versioning>
 </metadata>
