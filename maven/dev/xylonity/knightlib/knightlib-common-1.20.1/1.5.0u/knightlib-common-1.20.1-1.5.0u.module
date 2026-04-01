@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.knightlib",
+    "module": "knightlib-common-1.20.1",
+    "version": "1.5.0u",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0u.jar",
+          "url": "knightlib-common-1.20.1-1.5.0u.jar",
+          "size": 401048,
+          "sha512": "67dd59834b985cdaf3e1ddc5d775982b6167e6d57fad95e4941d00660c8df0e9266a8d15fae97aafbf5b71b7c70ebd78ff8e4fb598619d9cafb53501f027b3c4",
+          "sha256": "fc6d9dc65f312dc186ea335b6a189fef13884edad8462e7b47c1381832281845",
+          "sha1": "9dc9afccd014910e96fead099376df24749e476e",
+          "md5": "6bbd5500fcff38daaf2468b9ea20caea"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0u.jar",
+          "url": "knightlib-common-1.20.1-1.5.0u.jar",
+          "size": 401048,
+          "sha512": "67dd59834b985cdaf3e1ddc5d775982b6167e6d57fad95e4941d00660c8df0e9266a8d15fae97aafbf5b71b7c70ebd78ff8e4fb598619d9cafb53501f027b3c4",
+          "sha256": "fc6d9dc65f312dc186ea335b6a189fef13884edad8462e7b47c1381832281845",
+          "sha1": "9dc9afccd014910e96fead099376df24749e476e",
+          "md5": "6bbd5500fcff38daaf2468b9ea20caea"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0u-sources.jar",
+          "url": "knightlib-common-1.20.1-1.5.0u-sources.jar",
+          "size": 235061,
+          "sha512": "4d0fb019b3e3831f8c89fe9796aac125213b11ce812e1d91ea504377ecdeeba186c0710401bb0e88d47eacbd9bba36bf6ddf0ab6aac75f3995650bb26d310827",
+          "sha256": "5176821070b2844c28f0e27e748f14a046753bb468b9ae73d4f5d703f6f919a1",
+          "sha1": "800d0c0ee696b65fe87a630c00fbb2d99708bb96",
+          "md5": "37f70098cefbb42fea6b5402031c458a"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0u-javadoc.jar",
+          "url": "knightlib-common-1.20.1-1.5.0u-javadoc.jar",
+          "size": 920651,
+          "sha512": "aeba80b41959846b132176457316acc32ce3e99a4c4ec238a2b40ace96482e272c867c417c8dc6011ae4de2811d569a675eae8c41b54428fa797c0e9b8f6c27e",
+          "sha256": "2a1d6636cacf8b92d3f818b9bb2e2aad7993a73ebe6338047fbb2ed7e15cbef2",
+          "sha1": "471b9130241075fea0909b9851ed258c199a9ecf",
+          "md5": "5255244c5c7a06149d0ba698b5672643"
+        }
+      ]
+    }
+  ]
+}
