@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.knightlib",
+    "module": "knightlib-common-1.20.1",
+    "version": "1.5.0x",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0x.jar",
+          "url": "knightlib-common-1.20.1-1.5.0x.jar",
+          "size": 497136,
+          "sha512": "8e3a8da8de68d1db39d48b7dd6e572f06c3d8d928a6445092db1414159e49d55ec43b436253da05592b4d6f0a7bb9c52fef8f3302e7c997db1a999500375c7f4",
+          "sha256": "8219756c649cd26a941cd8add5ed35a8f1a280b3d9d07930766fecf6f03e84d3",
+          "sha1": "017f0fa0ffe87e3585e5d2751229816c5d181245",
+          "md5": "6c3d2f300148b344fd57de39c0813159"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.1"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-common",
+          "version": {
+            "requires": "15.20.0.106"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0x.jar",
+          "url": "knightlib-common-1.20.1-1.5.0x.jar",
+          "size": 497136,
+          "sha512": "8e3a8da8de68d1db39d48b7dd6e572f06c3d8d928a6445092db1414159e49d55ec43b436253da05592b4d6f0a7bb9c52fef8f3302e7c997db1a999500375c7f4",
+          "sha256": "8219756c649cd26a941cd8add5ed35a8f1a280b3d9d07930766fecf6f03e84d3",
+          "sha1": "017f0fa0ffe87e3585e5d2751229816c5d181245",
+          "md5": "6c3d2f300148b344fd57de39c0813159"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0x-sources.jar",
+          "url": "knightlib-common-1.20.1-1.5.0x-sources.jar",
+          "size": 301054,
+          "sha512": "ac84c848362b31759591583be01cc085d570a73380ff7d5be1ee17b33c605cdd8ca74f026ebb6d6f3cf80c955e106e265d19c0a7680d205f1d64dcad0ab36a39",
+          "sha256": "f2ccc2f8537cc69e3a5252685bee061156148554442fc52233751b7da604685b",
+          "sha1": "a32a3c80415b64017116af240da9931b29167707",
+          "md5": "70e1b97b268df8a158cf86ec7ea0d8cf"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.20.1-1.5.0x-javadoc.jar",
+          "url": "knightlib-common-1.20.1-1.5.0x-javadoc.jar",
+          "size": 1057656,
+          "sha512": "9628074ae72a0b59175f38a2da8413513dc2a39d0737b6f0faac6a4d09967f454a22de5e9990d0a6934598cf3be64672a24060f4c9673a0ac592dd18bcb4192c",
+          "sha256": "c9d326250ed12f6356abb69909c169862c2348794d22329f079a2bde55998a34",
+          "sha1": "e1f0feb4486a068a3b3bbb992dbb22af309c4702",
+          "md5": "93e1644488b812a1ccd1233e8517e16a"
+        }
+      ]
+    }
+  ]
+}
