@@ -3,11 +3,11 @@
   <groupId>dev.xylonity.knightlib</groupId>
   <artifactId>knightlib-fabric-1.20.1</artifactId>
   <versioning>
-    <latest>1.5.0y</latest>
-    <release>1.5.0y</release>
+    <latest>1.5.0z</latest>
+    <release>1.5.0z</release>
     <versions>
-      <version>1.5.0y</version>
+      <version>1.5.0z</version>
     </versions>
-    <lastUpdated>20260530181902</lastUpdated>
+    <lastUpdated>20260530213313</lastUpdated>
   </versioning>
 </metadata>
