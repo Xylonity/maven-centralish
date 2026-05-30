@@ -27,11 +27,11 @@
         {
           "name": "knightlib-common-1.20.1-1.5.0y.jar",
           "url": "knightlib-common-1.20.1-1.5.0y.jar",
-          "size": 501043,
-          "sha512": "b88a23a77882fbb2e76dcd44b98527a319ef73046a035c88b40167cffc0062eac5f339d5d26f7599490be7d8ef63a5b5c81dd38495477a0822dd1bb4e82fe430",
-          "sha256": "47d18194651e656e3998e344745c55726a3ac9a5aa5bc3305eadf7621c584c39",
-          "sha1": "9cb7f5382779d404cd2635902d9ae76456f5eaff",
-          "md5": "bc6fc8b7d7ce7ec33ad3d1fcc9cf5df5"
+          "size": 501042,
+          "sha512": "d0e2817ac554155476f3ae3f7e4ea9e926887f41bfc72829afeef00886c39bb03bb5cc567c33748eac39b4c2f7664e81a7b1bca90a11797ec21664b67814dfb3",
+          "sha256": "ad8dbd675a25c763f8937121f047921c302126b3f841e7daa66d49cfc69adb89",
+          "sha1": "d391f684960b9cbb7a3281a29e2bfeabe69f1ddd",
+          "md5": "8f0c594db5cdca39bd7a61ddcaeb899b"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "knightlib-common-1.20.1-1.5.0y.jar",
           "url": "knightlib-common-1.20.1-1.5.0y.jar",
-          "size": 501043,
-          "sha512": "b88a23a77882fbb2e76dcd44b98527a319ef73046a035c88b40167cffc0062eac5f339d5d26f7599490be7d8ef63a5b5c81dd38495477a0822dd1bb4e82fe430",
-          "sha256": "47d18194651e656e3998e344745c55726a3ac9a5aa5bc3305eadf7621c584c39",
-          "sha1": "9cb7f5382779d404cd2635902d9ae76456f5eaff",
-          "md5": "bc6fc8b7d7ce7ec33ad3d1fcc9cf5df5"
+          "size": 501042,
+          "sha512": "d0e2817ac554155476f3ae3f7e4ea9e926887f41bfc72829afeef00886c39bb03bb5cc567c33748eac39b4c2f7664e81a7b1bca90a11797ec21664b67814dfb3",
+          "sha256": "ad8dbd675a25c763f8937121f047921c302126b3f841e7daa66d49cfc69adb89",
+          "sha1": "d391f684960b9cbb7a3281a29e2bfeabe69f1ddd",
+          "md5": "8f0c594db5cdca39bd7a61ddcaeb899b"
         }
       ]
     },
