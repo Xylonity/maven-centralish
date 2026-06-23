@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.knightlib",
+    "module": "knightlib-common-1.21.1",
+    "version": "1.5.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.21.1-1.5.3.jar",
+          "url": "knightlib-common-1.21.1-1.5.3.jar",
+          "size": 509748,
+          "sha512": "49ad9360ec7e66e4bed9fb520119ff2fbe1ac9c0fb5c2ac0069978079c470f3f768c10f5d6fde8e4bb41e7ddf6496b49efb70cf463b7503e81fd751092a421f4",
+          "sha256": "69946a040075633923dfbe7ae3d1aff8490b6b3dc1028f8949d96cb6836858b3",
+          "sha1": "95fa9ef94c515615992b1fcb3ece4c340c8099f8",
+          "md5": "a29005097605eae55d800a00ff7a3486"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-common-1.21.1",
+          "version": "1.5.3"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.21.1-1.5.3.jar",
+          "url": "knightlib-common-1.21.1-1.5.3.jar",
+          "size": 509748,
+          "sha512": "49ad9360ec7e66e4bed9fb520119ff2fbe1ac9c0fb5c2ac0069978079c470f3f768c10f5d6fde8e4bb41e7ddf6496b49efb70cf463b7503e81fd751092a421f4",
+          "sha256": "69946a040075633923dfbe7ae3d1aff8490b6b3dc1028f8949d96cb6836858b3",
+          "sha1": "95fa9ef94c515615992b1fcb3ece4c340c8099f8",
+          "md5": "a29005097605eae55d800a00ff7a3486"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-common-1.21.1",
+          "version": "1.5.3"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.3"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.21.1-1.5.3-sources.jar",
+          "url": "knightlib-common-1.21.1-1.5.3-sources.jar",
+          "size": 313105,
+          "sha512": "e217e7c2a656b440c4e9d92201d16ad67c90be2230162d48f9f32c3c761bc433cde860c81b6902939536c25a1f894a154020fe163f9d3682e309b7ca1d93157a",
+          "sha256": "2c4eedbefa8c721ce8bc2c09ca1cbde839cf35eb38d4a496b6755c2180bbfb1f",
+          "sha1": "a9f5551e7a904b45a5e1fdd7a60003baa90a094f",
+          "md5": "2357ea838138cf690aac028a37d4e0d9"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-common-1.21.1",
+          "version": "1.5.3"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.3"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-common-1.21.1-1.5.3-javadoc.jar",
+          "url": "knightlib-common-1.21.1-1.5.3-javadoc.jar",
+          "size": 1104215,
+          "sha512": "18295ff4bb39bc3d962494b91a0dbb8fb5be4315a19102f47175473c337c549e380d1f64d6665c3a113d1d2c575d6a1cbe42aa43de3182f15fa3892b815d2204",
+          "sha256": "29f29dcc5feebaa534edaf83fa86af58a409daad36cda69a2ac43e928690d4cd",
+          "sha1": "ed2e8e9b508ae24a6f7c24b364c792684d65d806",
+          "md5": "e26708d42feda2073e4332779875743e"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-common-1.21.1",
+          "version": "1.5.3"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.3"
+        }
+      ]
+    }
+  ]
+}
