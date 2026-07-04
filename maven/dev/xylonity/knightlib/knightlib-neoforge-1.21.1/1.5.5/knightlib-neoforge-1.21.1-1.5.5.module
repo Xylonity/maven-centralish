@@ -1,0 +1,164 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.knightlib",
+    "module": "knightlib-neoforge-1.21.1",
+    "version": "1.5.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "knightlib-neoforge-1.21.1-1.5.5.jar",
+          "url": "knightlib-neoforge-1.21.1-1.5.5.jar",
+          "size": 596852,
+          "sha512": "72c36140bbae8240444de6fbb58581c805a43a6ded0cf56195599e4012b9bf6d40d24edfbe5a7ddc6af54d1fb5f409247bfd4871478b78d49b053ab6be999a35",
+          "sha256": "a071f489bd19a7fa4d9cf971a63f8023205630b5dae7ac9c78b2e1467e4f7447",
+          "sha1": "0ae6aea6f462208429199be468f10d2beb17e500",
+          "md5": "477c7fd5c062c5ed676710c3bed81a64"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-neoforge-1.21.1",
+          "version": "1.5.5"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "software.bernie.geckolib",
+          "module": "geckolib-neoforge-1.21.1",
+          "version": {
+            "requires": "4.9"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.21.1-neoforge",
+          "version": {
+            "requires": "19.21.1.311"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-neoforge-1.21.1-1.5.5.jar",
+          "url": "knightlib-neoforge-1.21.1-1.5.5.jar",
+          "size": 596852,
+          "sha512": "72c36140bbae8240444de6fbb58581c805a43a6ded0cf56195599e4012b9bf6d40d24edfbe5a7ddc6af54d1fb5f409247bfd4871478b78d49b053ab6be999a35",
+          "sha256": "a071f489bd19a7fa4d9cf971a63f8023205630b5dae7ac9c78b2e1467e4f7447",
+          "sha1": "0ae6aea6f462208429199be468f10d2beb17e500",
+          "md5": "477c7fd5c062c5ed676710c3bed81a64"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-neoforge-1.21.1",
+          "version": "1.5.5"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-neoforge-1.21.1-1.5.5-sources.jar",
+          "url": "knightlib-neoforge-1.21.1-1.5.5-sources.jar",
+          "size": 351258,
+          "sha512": "7ce8e0ded014d89b49ff8e5d17b3cb3ecbe3a7d294f8bd7c7fef57382f04efd5f9f4337c54cb203391d79087376c80f183ff0eebca280eeefaf9357eea564128",
+          "sha256": "1259c5c878ff5d15516213d7ace42505a852e057beaf2b72049ecd25cbbd5742",
+          "sha1": "ce11b6e6b49ae6742256d96b484ea091ab1322a0",
+          "md5": "04802c31aaa3c55e68aa3be81090f6fd"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-neoforge-1.21.1",
+          "version": "1.5.5"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.5"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-neoforge-1.21.1-1.5.5-javadoc.jar",
+          "url": "knightlib-neoforge-1.21.1-1.5.5-javadoc.jar",
+          "size": 1254997,
+          "sha512": "279c5764206dcfbf8c2263450371b9c1d76c6bf65edb164347afbbbe75b5e73f863c9eb9726ba01a6207ce7ef41a64a91e7cc7b3487a0e6a58d982bb235386e8",
+          "sha256": "122072c1ac2f9258455f0766943506ccb2be3ec8f9e6a800d43058d079deb4ce",
+          "sha1": "785fb4d8c62419a9deaf6b886183952775f95151",
+          "md5": "2a6a9be577d6d55acf7a354736a367b8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-neoforge-1.21.1",
+          "version": "1.5.5"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.5.5"
+        }
+      ]
+    }
+  ]
+}
