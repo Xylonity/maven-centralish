@@ -1,0 +1,221 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.knightlib",
+    "module": "knightlib-fabric-1.21.1",
+    "version": "1.6.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "knightlib-fabric-1.21.1-1.6.1.jar",
+          "url": "knightlib-fabric-1.21.1-1.6.1.jar",
+          "size": 954159,
+          "sha512": "cd7206040b187d6b125246d33b087f71611fa9442b0e1350f911d8751aa37cdd323aa17f688f712c56a0ca7cb05116bfa87cfcf05556b792bd2fa2152b8fd34f",
+          "sha256": "3d4b0d2a377ddd394ad691ac6f496b22793ad90e02c9eaec737197124a821802",
+          "sha1": "99f827050aa02c450cbd75470154c253b980ea3c",
+          "md5": "74475a64a0d903a39a864888c3cab5d9"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.6.1"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-fabric-1.21.1",
+          "version": "1.6.1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.6"
+          }
+        },
+        {
+          "group": "software.bernie.geckolib",
+          "module": "geckolib-fabric-1.21.1",
+          "version": {
+            "requires": "4.7.6"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "11.0.4"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.21.1-fabric",
+          "version": {
+            "requires": "19.21.1.311"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.9"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.109.0+1.21.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-fabric-1.21.1-1.6.1.jar",
+          "url": "knightlib-fabric-1.21.1-1.6.1.jar",
+          "size": 954159,
+          "sha512": "cd7206040b187d6b125246d33b087f71611fa9442b0e1350f911d8751aa37cdd323aa17f688f712c56a0ca7cb05116bfa87cfcf05556b792bd2fa2152b8fd34f",
+          "sha256": "3d4b0d2a377ddd394ad691ac6f496b22793ad90e02c9eaec737197124a821802",
+          "sha1": "99f827050aa02c450cbd75470154c253b980ea3c",
+          "md5": "74475a64a0d903a39a864888c3cab5d9"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.6.1"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-fabric-1.21.1",
+          "version": "1.6.1"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-fabric-1.21.1-1.6.1-sources.jar",
+          "url": "knightlib-fabric-1.21.1-1.6.1-sources.jar",
+          "size": 448388,
+          "sha512": "71e04cd76b67479f6b05d73a2ef9182392bed85c5236f3bccd2a6e74c3f45f88ac301bada1aa268ed5dc73f988061c8caa9f4a0ce2a4475ee77951f5d5f15ffa",
+          "sha256": "8db802e184b131b115189d5b592e3d1661dd3c7bb3582df8e966dfdeb705ec55",
+          "sha1": "26219106eb47cc96435d08371dbf5f4eb379fe32",
+          "md5": "356677544b69b50cc44749d993c2b095"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.6.1"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-fabric-1.21.1",
+          "version": "1.6.1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "knightlib-fabric-1.21.1-1.6.1-javadoc.jar",
+          "url": "knightlib-fabric-1.21.1-1.6.1-javadoc.jar",
+          "size": 1448786,
+          "sha512": "3d764ba8a217935fde8387e7feb82a40fbd69e3fe053f366f74c91ba88a1646ebf7ba08c46fe938715ed0f9da064cb05a59c3161a18414bf3e53698b75f40258",
+          "sha256": "805c8e90315cc9299b43230027e3006859ccf459d86c31db7cbe095d15ce7ae1",
+          "sha1": "1c8c766833e5b9a011205d2161161d42734c08f3",
+          "md5": "5898e0e1ac5d374c56d1178a0bd2bc52"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib",
+          "version": "1.6.1"
+        },
+        {
+          "group": "dev.xylonity.knightlib",
+          "name": "knightlib-fabric-1.21.1",
+          "version": "1.6.1"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "knightlib-fabric-1.21.1-1.6.1-dev-shadow.jar",
+          "url": "knightlib-fabric-1.21.1-1.6.1-dev-shadow.jar",
+          "size": 932638,
+          "sha512": "f86336e8c65638ce660666e8783d1adf29efbfee8e285e87998825a796dde4f82430499f3988e9f988b575afa959e7250f26af732d65a0457bef69fb090034b5",
+          "sha256": "c6977da1268bdc327ba2196f1c652b790b8996bf8e0388d04103f2bb9e7fc9fd",
+          "sha1": "3da16572e1ab44091d9d1e3c04621ce6c6859f25",
+          "md5": "a9e1f619bea0b3d80808add57b248c39"
+        }
+      ]
+    }
+  ]
+}
