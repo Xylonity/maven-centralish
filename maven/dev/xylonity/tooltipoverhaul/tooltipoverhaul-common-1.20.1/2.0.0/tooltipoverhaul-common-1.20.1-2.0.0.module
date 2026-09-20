@@ -1,0 +1,134 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.tooltipoverhaul",
+    "module": "tooltipoverhaul-common-1.20.1",
+    "version": "2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11"
+    }
+  },
+  "variants": [
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-common-1.20.1-2.0.0-sources.jar",
+          "url": "tooltipoverhaul-common-1.20.1-2.0.0-sources.jar",
+          "size": 511211,
+          "sha512": "87ff7bcfed8fb469728609f7345f5c96ace3c905d7d548a2fff22c91a7dce2059e24393983adc49820ae32fe40aec9b04213c31c6e9a8b5270a15758b88b0b06",
+          "sha256": "80d1c7669299385e16bd200b88525dde6c9b0c7e6b61058c28e52063f4480c92",
+          "sha1": "3eb4a24cde22108ee8feeae6d7d49a88d6a36a02",
+          "md5": "78a43d5b8a448b5d1e2dfd1006439220"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-common-1.20.1",
+          "version": "2.0.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "2.0.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "common",
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-common-1.20.1-2.0.0-javadoc.jar",
+          "url": "tooltipoverhaul-common-1.20.1-2.0.0-javadoc.jar",
+          "size": 848021,
+          "sha512": "2483f3ee8fdc962ec14e24b640efb1e8a0260def4bec3f03681390ad5d29dd83c10401ed2b78a36c728903271ad8e6d8a55a915b64fd13a57062267f37fe879a",
+          "sha256": "14d103d498ea7e820c3aabae569dea97eacbf01972fa105af271adffc23228ba",
+          "sha1": "949c328ceab43dee4cf70d488009ca64768ab416",
+          "md5": "2183120cbcc557fc62a1b33d6a64c24b"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-common-1.20.1",
+          "version": "2.0.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "2.0.0"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "common",
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
+      "name": "reobfRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-common-1.20.1-2.0.0.jar",
+          "url": "tooltipoverhaul-common-1.20.1-2.0.0.jar",
+          "size": 889850,
+          "sha512": "b41b2a17e5e2cbc89271300fdb488a83d5589b5e687f2e260cd70dfd154dc0959261c61fa409133d2658387299aecfeb30591b8f564f65d75aa7d2fc42b41b65",
+          "sha256": "363ff079937cc0eee8022ef6f03f1a3df36fe1f8ca8f5997eee474524bc4e067",
+          "sha1": "093d9fbce6624b06f1667552181a62499b963c1d",
+          "md5": "e534e73c9d605a9f2e40783d53742a98"
+        }
+      ]
+    },
+    {
+      "name": "reobfApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-common-1.20.1-2.0.0.jar",
+          "url": "tooltipoverhaul-common-1.20.1-2.0.0.jar",
+          "size": 889850,
+          "sha512": "b41b2a17e5e2cbc89271300fdb488a83d5589b5e687f2e260cd70dfd154dc0959261c61fa409133d2658387299aecfeb30591b8f564f65d75aa7d2fc42b41b65",
+          "sha256": "363ff079937cc0eee8022ef6f03f1a3df36fe1f8ca8f5997eee474524bc4e067",
+          "sha1": "093d9fbce6624b06f1667552181a62499b963c1d",
+          "md5": "e534e73c9d605a9f2e40783d53742a98"
+        }
+      ]
+    }
+  ]
+}
