@@ -1,0 +1,207 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.xylonity.tooltipoverhaul",
+    "module": "tooltipoverhaul-fabric-1.21.1",
+    "version": "2.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-fabric-1.21.1-2.0.5.jar",
+          "url": "tooltipoverhaul-fabric-1.21.1-2.0.5.jar",
+          "size": 1160203,
+          "sha512": "288d552283f406243367be340e0d0495c8deb2b4df59041ca4a9547c2d70289836318617bd32b30e220257ba9cfb1b0b4d79c45deb3ea150919a8214003fa9d1",
+          "sha256": "c71622d0fa3875a6dda3451e8e68e3fcbc3d7d7291db09ebc152ab2dfe10d2f7",
+          "sha1": "1200a613b1f8b683e9c160d0ce7ac1db610eac77",
+          "md5": "01fa2af057674d3c43bda677503d23af"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-fabric-1.21.1",
+          "version": "2.0.5"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "2.0.5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.6"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.9"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.109.0+1.21.1"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "11.0.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tooltipoverhaul-fabric-1.21.1-2.0.5.jar",
+          "url": "tooltipoverhaul-fabric-1.21.1-2.0.5.jar",
+          "size": 1160203,
+          "sha512": "288d552283f406243367be340e0d0495c8deb2b4df59041ca4a9547c2d70289836318617bd32b30e220257ba9cfb1b0b4d79c45deb3ea150919a8214003fa9d1",
+          "sha256": "c71622d0fa3875a6dda3451e8e68e3fcbc3d7d7291db09ebc152ab2dfe10d2f7",
+          "sha1": "1200a613b1f8b683e9c160d0ce7ac1db610eac77",
+          "md5": "01fa2af057674d3c43bda677503d23af"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-fabric-1.21.1",
+          "version": "2.0.5"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "2.0.5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-fabric-1.21.1-2.0.5-sources.jar",
+          "url": "tooltipoverhaul-fabric-1.21.1-2.0.5-sources.jar",
+          "size": 556645,
+          "sha512": "17f13ba063e7607e5eddb43b8f8c0570c9ffe2a232e9fbcd3037fad408af5346f360ddc961b8631c32d5b471b0c5d26e14e35e3c1997d35cf66d789dc3ec06be",
+          "sha256": "81d818fa1def41b5afffafb827f684b4ab505558efe7dbe2914bcb3243c2c382",
+          "sha1": "4f2d4a70bb2b1ff4c7366713db15812f3076c2a7",
+          "md5": "72a133b1bf4fb0b5027ffaa193a10bf9"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-fabric-1.21.1",
+          "version": "2.0.5"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "2.0.5"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tooltipoverhaul-fabric-1.21.1-2.0.5-javadoc.jar",
+          "url": "tooltipoverhaul-fabric-1.21.1-2.0.5-javadoc.jar",
+          "size": 904302,
+          "sha512": "09c1f62c9f4d3c2b270db48a5f378df764e7f90f21fb5f94c2038cbe557ae46009c292295bfe4adc1382ccf9cacc8d11bf7d425be832d868211e238ab7b3c01d",
+          "sha256": "2e1e5805beed5e2c0409e5f121decb4eb30710de7aeafb66cc9cbe838f6945c9",
+          "sha1": "57ae4f8a919259a14a2f06030f20a4db356b5d34",
+          "md5": "7634da72de1cb326ed19370420032e02"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul-fabric-1.21.1",
+          "version": "2.0.5"
+        },
+        {
+          "group": "dev.xylonity.tooltipoverhaul",
+          "name": "tooltipoverhaul",
+          "version": "2.0.5"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tooltipoverhaul-fabric-1.21.1-2.0.5-dev-shadow.jar",
+          "url": "tooltipoverhaul-fabric-1.21.1-2.0.5-dev-shadow.jar",
+          "size": 1139500,
+          "sha512": "7f9100f4e544a0403c9137943dbd0dbe984ee67a16c1f6977e2a6822c0b870f689098ff8b4f599c5ea6f8648b0a9977c968cb493106b394bbc5981a812ce5574",
+          "sha256": "6f2aa6c7eaaa8b0bfccc3eb10100089eca7162553b39e918717d34ea138ce338",
+          "sha1": "e308edcddce3c2753165ba09687aceece20984a3",
+          "md5": "4e5e85685179aa679c7a8a94a25b0807"
+        }
+      ]
+    }
+  ]
+}
